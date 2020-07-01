@@ -1,5 +1,6 @@
 # School-Projects
 My Project tasks from one-year Data Science studies with African Leadership University
+You'll see that the projects show different levels of expertise as I improved over the year.
 
 
 
