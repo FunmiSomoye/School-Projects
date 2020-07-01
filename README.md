@@ -8,7 +8,7 @@ The following tools were used differently in creating the various projects
 * Anaconda
   - Jupyter Notebooks
 * Google Colab
-* Apache Spark
+* Spark
 * Python libraries
   - Pandas (for computations and manipulations)
   - Numpy (for computations)
